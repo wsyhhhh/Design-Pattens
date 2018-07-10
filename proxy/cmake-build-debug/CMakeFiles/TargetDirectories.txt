@@ -1,0 +1,3 @@
+F:/code/proxy/cmake-build-debug/CMakeFiles/proxy.dir
+F:/code/proxy/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/code/proxy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
