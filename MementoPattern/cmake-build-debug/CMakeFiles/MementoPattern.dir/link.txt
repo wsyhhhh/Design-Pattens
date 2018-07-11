@@ -1,0 +1,3 @@
+"E:\soft\CLion 2017.2\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\MementoPattern.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\MementoPattern.dir/objects.a @CMakeFiles\MementoPattern.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\MementoPattern.dir/objects.a -Wl,--no-whole-archive  -o MementoPattern.exe -Wl,--out-implib,libMementoPattern.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\MementoPattern.dir\linklibs.rsp
