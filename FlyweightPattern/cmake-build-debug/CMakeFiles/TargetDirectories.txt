@@ -1,0 +1,3 @@
+F:/code/FlyweightPattern/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/code/FlyweightPattern/cmake-build-debug/CMakeFiles/FlyweightPattern.dir
+F:/code/FlyweightPattern/cmake-build-debug/CMakeFiles/rebuild_cache.dir
