@@ -1,0 +1,3 @@
+F:/code/BridgePattern/cmake-build-debug/CMakeFiles/BridgePattern.dir
+F:/code/BridgePattern/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/code/BridgePattern/cmake-build-debug/CMakeFiles/rebuild_cache.dir
